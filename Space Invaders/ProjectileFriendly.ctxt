@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ProjectileFriendly
+comment1.params=
+comment1.target=ProjectileFriendly()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ hitAlien()
+comment4.params=n
+comment4.target=void\ setProjectileFriendlySpeed(int)
+comment5.params=
+comment5.target=int\ getProjectileFriendlySpeed()
+numComments=6

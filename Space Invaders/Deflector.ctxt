@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Deflector
+comment1.params=player\ pD
+comment1.target=Deflector(Spaceship,\ PowerUpDeflect)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

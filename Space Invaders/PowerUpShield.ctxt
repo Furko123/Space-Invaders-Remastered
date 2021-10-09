@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=PowerUpShield
+comment1.params=
+comment1.target=PowerUpShield()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=b
+comment3.target=void\ setActive(boolean)
+comment4.params=
+comment4.target=void\ resetActiveCounter()
+numComments=5

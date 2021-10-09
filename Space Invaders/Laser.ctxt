@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Laser
+comment1.params=pic
+comment1.target=Laser(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=pic
+comment3.target=void\ changeImage(java.lang.String)
+numComments=4

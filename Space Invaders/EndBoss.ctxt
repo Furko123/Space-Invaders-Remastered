@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=EndBoss
+comment1.params=
+comment1.target=EndBoss()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ differences()
+comment4.params=
+comment4.target=void\ createShips()
+comment5.params=
+comment5.target=void\ laser()
+comment6.params=
+comment6.target=void\ removeLaser()
+comment7.params=
+comment7.target=void\ hitWizard()
+numComments=8

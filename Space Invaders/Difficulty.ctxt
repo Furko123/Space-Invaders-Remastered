@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Difficulty
+comment1.params=dif
+comment1.target=Difficulty(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ hoverOverImage()
+comment4.params=
+comment4.target=void\ startGame()
+numComments=5

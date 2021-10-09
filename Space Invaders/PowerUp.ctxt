@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PowerUp
+comment1.params=
+comment1.target=PowerUp()
+comment2.params=
+comment2.target=void\ activateOnClick()
+comment3.params=powerUpImage
+comment3.target=void\ updateImage(java.lang.String)
+comment4.params=
+comment4.target=greenfoot.GreenfootImage\ setPowerUpIndex()
+comment5.params=
+comment5.target=boolean\ getActive()
+numComments=6

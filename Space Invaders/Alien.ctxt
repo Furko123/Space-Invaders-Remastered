@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Alien
+comment1.params=n
+comment1.target=void\ shootProjectile(int)
+comment2.params=n
+comment2.target=void\ shootBomb(int)
+numComments=3

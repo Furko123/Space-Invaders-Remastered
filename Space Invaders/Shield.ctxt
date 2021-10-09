@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Shield
+comment1.params=player\ pS
+comment1.target=Shield(Spaceship,\ PowerUpShield)
+comment2.params=
+comment2.target=void\ act()
+numComments=3

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Menu
+comment1.params=
+comment1.target=Menu()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ prepare()
+comment4.params=
+comment4.target=void\ prepareDifficultyButtons()
+comment5.params=
+comment5.target=greenfoot.GreenfootImage\ blackBackground()
+comment6.params=
+comment6.target=void\ stopSong()
+numComments=7

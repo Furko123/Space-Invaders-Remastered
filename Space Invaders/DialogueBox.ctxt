@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=DialogueBox
+comment1.params=bild
+comment1.target=DialogueBox(java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ getMouseClickedBox()
+comment4.params=
+comment4.target=void\ setMouseClickedBox()
+numComments=5
